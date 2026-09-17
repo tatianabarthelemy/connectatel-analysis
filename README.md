@@ -70,6 +70,20 @@ El análisis identificó que:
 
 > Nota: las rutas de los datasets pueden necesitar ajustes dependiendo del entorno donde se ejecute el notebook.
 
+## ▶️ Cómo abrir el notebook en Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tatianabarthelemy/connectatel-analysis/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
+
+Haz clic en el botón anterior para abrir directamente el notebook en Google Colab.
+
+## Opción alternativa
+
+1. Abre Google Colab.
+2. Selecciona **Archivo → Abrir cuaderno**.
+3. Selecciona **GitHub**.
+4. Busca el repositorio `tatianabarthelemy/connectatel-analysis`.
+5. Abre `S7 Version-Estudiante-Project-ConnectaTel.ipynb`.
+
 ## Archivo principal
 
 `S7 Version-Estudiante-Project-ConnectaTel.ipynb`
